@@ -18,12 +18,13 @@ The following **optional** features are implemented:
 -   [ ] UI animations
 -   [ ] Remembering the bill amount across app restarts (if <10mins)
 -   [ ] Using locale-specific currency and currency thousands separators.
--   [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+-   [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
 -   [x] User can select a tip percentage from 0% to 100% as the tip percentage using a slider
--   [ ] List anything else that you can get done to improve the app functionality!
+-   [x] User can only type in numbers with a number pad and the digits will be appended to the end of the bill amount starting as a decimal
+-   [x] User can tap out of the number pad for the bill amount to close the number pad
 
 ## Video Walkthrough
 
