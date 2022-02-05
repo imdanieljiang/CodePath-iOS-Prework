@@ -4,7 +4,7 @@
 
 Submitted by: **Daniel Jiang**
 
-Time spent: **6** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -24,13 +24,13 @@ The following **additional** features are implemented:
 
 -   [x] User can select a tip percentage from 0% to 100% as the tip percentage using a slider
 -   [x] User can only type in numbers with a number pad and the digits will be appended to the end of the bill amount starting as a decimal
--   [x] User can tap out of the number pad for the bill amount to close the number pad
+-   [x] User can tap outside of the number pad to hide the number pad
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/3H2alRu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
